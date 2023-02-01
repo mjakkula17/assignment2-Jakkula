@@ -37,3 +37,14 @@ I like the sport **Through ball** because we need to play as a team to win the g
 
  * -Lucifer
 
+---
+
+# Javascript code
+> Keyboard event value <https://www.section.io/engineering-education/keyboard-events-in-javascript/>
+```
+document.addEventListener("keydown", function(event) {
+  console.log(event.which);
+}
+```
+
+Code link <https://css-tricks.com/snippets/javascript/javascript-keycodes/>
