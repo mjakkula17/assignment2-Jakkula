@@ -16,3 +16,15 @@ I like the sport **Through ball** because we need to play as a team to win the g
     * Casy
 * Seven Stunners
  [Aboutme](https://github.com/mjakkula17/assignment2-Jakkula/blob/main/AboutMe.md)
+
+ ---
+ # Countries recommendation to visit
+ This table shows recommended countries and the reasons to visit
+ | Country | Reasons | no. of days |
+ | --- | --- | --- |
+ | France | It has beautifully preserved historic towns | 10 |
+ | India | Natural beauty, landscapes, and India's cultural diversity | 20 |
+ | Netherlands | It has tulip fields throughout the country in the spring | 5 |
+ | Sweden | It has coastal towns and the forests of Central Sweden | 15 |
+
+ ---
