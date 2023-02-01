@@ -16,5 +16,4 @@ I like the sport **Through ball** because we need to play as a team to win the g
     * Casy
 * Seven Stunners
 
- To know about me [open AboutMe.md](AboutMe.md)
- https://github.com/mjakkula17/assignment2-Jakkula/blob/main/AboutMe.md
+  https://github.com/mjakkula17/assignment2-Jakkula/blob/main/AboutMe.md
