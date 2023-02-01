@@ -8,10 +8,3 @@ I like the sport **Through ball** because we need to play as a team to win the g
     1. Sachin
     2. Dhoni
     3. Virat
-
-# unordered list
-* Team Trounce
-* Serving Aces
-    * Amy
-    * Casy
-* Seven Stunners
