@@ -28,3 +28,13 @@ I like the sport **Through ball** because we need to play as a team to win the g
  | Sweden | It has coastal towns and the forests of Central Sweden | 15 |
 
  ---
+ # Funny Quotes
+ >One day i'm gonna make the onions cry
+
+ * -Andrea
+
+ >My stomach is flat, L is just silent
+
+ * -Lucifer
+
+ 
