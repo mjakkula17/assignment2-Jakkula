@@ -31,9 +31,9 @@ I like the sport **Through ball** because we need to play as a team to win the g
  # Funny Quotes
  >One day i'm gonna make the onions cry
 
- * -Andrea *
+ * -Andrea
 
  >My stomach is flat, L is just silent
 
- * -Lucifer *
+ * -Lucifer
 
