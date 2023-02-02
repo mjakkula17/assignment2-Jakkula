@@ -19,7 +19,7 @@ I like the sport **Through ball** because we need to play as a team to win the g
 
  ---
  # Countries recommendation to visit
- This table shows recommended countries and the reasons to visit
+ This table shows recommended countries and the reasons to visit. Here there are four countries which are the top countries to visit and the reasons to visit and number of days to visit.
  | Country | Reasons | no. of days |
  | --- | --- | --- |
  | France | It has beautifully preserved historic towns | 10 |
